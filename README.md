@@ -5,6 +5,8 @@
 ## Description
 It is an application that generate a working team profile page. The application prompts to the user, information about the team manager and then information about the team members. The application will create an HTML file that displays a nicely formatted team roster based on the information provided by the user.
 
+* * A Walkthroug video is included in the screenshot section.
+
 ## Table of contents
 * [Description](#Description)
 * [Installation](#Installation)
