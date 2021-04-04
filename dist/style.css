@@ -1,6 +1,12 @@
+body {
+    background-image: url(./daiga-ellaby-7RbrfvZySOs-unsplash.jpg);
+    background-size: cover;
+}
 .mb-3 {
-    background-color: teal;
+    background-color: rgb(180, 37, 137);
     color: white;
+    font-family: cursive;
+    font-style: italic;
 }
 
 .card {
@@ -13,15 +19,32 @@
     color: white;
 }
 #manager {
-    background-color: blueviolet;
+    background-color: rgb(127, 8, 156);
+    color: white;
+    font-family: cursive;
+    font-style: italic;
 }
 
 #engineer {
-    background-color: blue;
+    background-color: rgb(58, 178, 226);
+    color: white;
+    font-family: cursive;
+    font-style: italic;
 }
 
 #intern {
-    background-color: orange;
+    background-color: rgb(161, 51, 128);
+    color: white;
+    font-family: cursive;
+    font-style: italic;
+}
+.list-group {
+    color: white;
+    font-family: cursive;
+    font-style: italic;
+}
+.list-group-item {
+    color: black;
 }
 
 @media only screen and (max-width: 812px) {
