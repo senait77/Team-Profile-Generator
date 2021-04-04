@@ -19,7 +19,7 @@ It is an application that generate a working team profile page. The application 
 The app is built with nodejs. After downloading the Node.js,in your command line run ``` npm init```and then the user need to intall the Inquirer npm package using ```npm install inquirer``` to install all dependencies in the package.json folder.
 These " Team Profile Generator" also uses ``` Jest ``` npm package which is installed under dev-dependencies in the package-json folder.
 To add ``` jest``` npm package , in your command line run ``` npm install jest --save-dev ```.
-* In your GitHub create a new repository and clone it to your local machine using ``` git clone <copy of ssh key>.
+* In your GitHub create a new repository and clone it to your local machine using ``` git clone <copy of ssh key>```.
 
 
 ## Usage
